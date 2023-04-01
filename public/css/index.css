@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #219ebc;
+}
+
+input {
+  background-color: #343434;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.result {
+  color: #fff;
+}
+
+.number {
+  background-color: #e7e8eb;
+  color: #343434;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.operator {
+  background-color: #219ebc;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+button {
+  transition: all 300ms;
+}
